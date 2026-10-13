@@ -2,7 +2,7 @@
 
 <img src="https://github.com/DearEmma/wsl-mgr/blob/main/wsl-mgr-demo.png" />
 
-一款免费的微软WSL图形化管理软件（没有AI、没有升级提醒、没有自启动、不用注册、没有广告……）
+一款免费的微软WSL图形化管理软件（没有AI、没有升级提醒、没有自启动、不用安装、不用注册、没有广告……）
 
 支持远程、本地WSL虚拟机管理，包括：添加、删除、启动、停止  
 支持远程、本地WSL虚拟机状态监控，包括：CPU、内存、硬盘、IP  
