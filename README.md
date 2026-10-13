@@ -1,5 +1,7 @@
 # wsl-mgr v0.1
 
+<img src="https://github.com/DearEmma/wsl-mgr/blob/main/wsl-mgr-demo.png" />
+
 一款免费的微软WSL图形化管理软件
 
 支持远程、本地WSL虚拟机管理，包括：添加、删除、启动、停止  
